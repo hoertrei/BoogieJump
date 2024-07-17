@@ -1,14 +1,14 @@
-# BoogieJump
+# Boogie Jump
 
-Welcome to **BoogieJump**! This is the official repository for the endless jump and run game developed in Unity.
+Welcome to **Boogie Jump**! This is the official repository for the endless jump and run game developed in Unity.
 
 ## About the Game
 
-BoogieJump is an endless jump and run game where you can collect coins. Use these coins to purchase items that help you go further in the next round and beat your high score. Jump and dance through exciting levels, aiming to achieve the highest scores!
+Boogie Jump is an endless jump and run game where you can collect coins. Use these coins to purchase items that help you go further in the next round and beat your high score. Jump and dance through exciting levels, aiming to achieve the highest scores!
 
-![Screenshot 2024-07-17 061948](https://github.com/user-attachments/assets/e6cdef53-e728-46ab-bd56-e9c995272499)
-
-![Screenshot 2024-07-17 062048](https://github.com/user-attachments/assets/52a8fa14-225d-4729-abb3-657a98f70693)
+![Screenshot 2024-07-17 061916](https://github.com/user-attachments/assets/045a720b-a6ba-4ab3-bd26-1cb87ce44035)
+![Screenshot 2024-07-17 130838](https://github.com/user-attachments/assets/44dedb8c-311c-4774-9dd2-6e6b33ce7799)
+![Screenshot 2024-07-17 131231](https://github.com/user-attachments/assets/8fcaaad2-2f71-454a-8ef3-03944e2ab67d)
 
 ## Features
 
@@ -19,9 +19,9 @@ BoogieJump is an endless jump and run game where you can collect coins. Use thes
 
 ## How to Play
 
-1. **Download the Game:** Visit the [Release Page](https://github.com/hoertrei/BoogieJump/releases) to download the latest version of BoogieJump.
+1. **Download the Game:** Visit the [Release Page](https://github.com/hoertrei/BoogieJump/releases) to download the latest version of Boogie Jump.
 2. **Unzip the File:** Unzip the downloaded file to any location on your computer.
-3. **Start the Game:** Double-click the `exe` file within the unzipped folder to launch BoogieJump.
+3. **Start the Game:** Double-click the `exe` file within the unzipped folder to launch Boogie Jump.
 4. **Create a Shortcut:** For convenient access, create a shortcut of the `exe` file on your desktop. Ensure the main folder remains intact and in a preferred location on your computer.
 
 ## System Requirements
@@ -42,15 +42,15 @@ BoogieJump is an endless jump and run game where you can collect coins. Use thes
 
 ## Feedback and Contributions
 
-I hope you enjoy playing BoogieJump! Your feedback and suggestions are highly appreciated. Feel free to open issues or contribute to the project by submitting pull requests.
+I hope you enjoy playing Boogie Jump! Your feedback and suggestions are highly appreciated. Feel free to open issues or contribute to the project by submitting pull requests.
 
 ## Support
 
-If you encounter any issues or have questions about BoogieJump, please open an issue in this repository. I'm here to help!
+If you encounter any issues or have questions about Boogie Jump, please open an issue in this repository. I'm here to help!
 
 ## License
 
-BoogieJump is released under the MIT License.
+BoogieJump is released under the MIT License. See [LICENSE](./LICENSE) for more information.
 
 ## UML Class Diagram
 
