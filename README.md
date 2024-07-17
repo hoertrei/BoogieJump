@@ -5,6 +5,7 @@ Welcome to **BoogieJump**! This is the official repository for the endless jump 
 ## About the Game
 
 BoogieJump is an endless jump and run game where you can collect coins. Use these coins to purchase items that help you go further in the next round and beat your high score. Jump and dance through exciting levels, aiming to achieve the highest scores!
+
 ![Screenshot 2024-07-17 061948](https://github.com/user-attachments/assets/e6cdef53-e728-46ab-bd56-e9c995272499)
 
 ![Screenshot 2024-07-17 062048](https://github.com/user-attachments/assets/52a8fa14-225d-4729-abb3-657a98f70693)
@@ -50,3 +51,8 @@ If you encounter any issues or have questions about BoogieJump, please open an i
 ## License
 
 BoogieJump is released under the MIT License.
+
+## UML Class Diagram
+
+![Klassendiagramm Boogie Jump](https://github.com/user-attachments/assets/b2d4c094-dc31-4eb6-88ad-1fbab282c8a3)
+
